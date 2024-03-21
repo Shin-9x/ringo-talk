@@ -1,0 +1,3 @@
+[submodule "ringo-talk-users"]
+	path = ringo-talk-users
+	url = https://github.com/Shin-9x/ringo-talk-users
